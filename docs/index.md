@@ -15,7 +15,7 @@ hero:
       link: /manual/index.md
 
 features:
-  - title: Feature A
+  - title: 4pi立体角
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
