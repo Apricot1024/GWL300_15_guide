@@ -13,16 +13,46 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'GWL-300-15 HPGE',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '汇总说明', link: '/guide/index.md' }
+        ]
+      },
+      {
+        text: '技术规格',
+        items: [
+          { text: '尺寸参数', link: '/guide/size.md' },
+
+          { text: '标称分辨', link: '/guide/resolution.md'}
+        ]
+      },
+      {
+        text: '使用注意',
+        items: [
+          { text: '液氮冷却', link: '/guide/n2liquid.md' },
+          { text: '模块与连接', link: '/guide/nimmodule.md'},
+          { text: '高压bias', link: '/guide/bias.md'},
+          { text: '获取系统', link: '/guide/aquirement.md'}
+        ]
+      },
+      {
+        text: '现有结果',
+        items: [
+          { text: '本底谱', link: '/results/specbackground.md' },
+          { text: '60Co谱', link: '/results/spec60Co.md' },
+          { text: '133Ba-152Eu谱', link: '/results/spec133Ba152Eu.md' }
+        ]
+      },
+      {
+        text: '文档参考',
+        items: [
+          { text: '官方文档', link: '/manual/docs.md'}
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/Apricot1024/GWL300_15_guide' }
     ]
   }
 })
