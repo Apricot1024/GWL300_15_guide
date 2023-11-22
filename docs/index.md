@@ -26,6 +26,6 @@ features:
   - title: 格式优化
     details: VitePress 驱动，格式优化
   - title: 参与贡献
-    details: 目前指南有许多需要改进的地方，欢迎参与贡献
+    details: 目前指南有许多需要改进的地方，欢迎点击右上角Contact参与贡献
 ---
 
