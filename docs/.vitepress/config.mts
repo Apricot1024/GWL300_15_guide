@@ -47,7 +47,7 @@ export default defineConfig({
       {
         text: '文档参考',
         items: [
-          { text: '官方文档', link: '/manual/docs.md'}
+          { text: '官方文档', link: '/manuals/docs.md'}
         ]
       }
     ],
