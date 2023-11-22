@@ -24,7 +24,7 @@ export default defineConfig({
         items: [
           { text: '尺寸参数', link: '/guide/size.md' },
 
-          { text: '标称分辨', link: '/guide/resolution.md'}
+          { text: '分辨', link: '/guide/resolution.md'}
         ]
       },
       {
