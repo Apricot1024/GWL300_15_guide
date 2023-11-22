@@ -23,8 +23,8 @@ export default defineConfig({
         text: '技术规格',
         items: [
           { text: '尺寸参数', link: '/guide/size.md' },
-
-          { text: '分辨', link: '/guide/resolution.md'}
+          { text: '分辨', link: '/guide/resolution.md'},
+          { text: '冷却与高压', link: '/guide/bias.md' }
         ]
       },
       {
