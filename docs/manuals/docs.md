@@ -6,11 +6,11 @@
 
 ## 电子学
 [659brochure](/manuals/659-brochure.pdf)
-[659手册](/manuals/659-mnl/pdf)
-[672brochure](/manuals/672-brochure/pdf)
+[659手册](/manuals/659-mnl.pdf)
+[672brochure](/manuals/672-brochure.pdf)
 [672手册](/manuals/672-mnl.pdf)
 [927brochure](/manuals/927-brochure.pdf)
-[927手册](/manuals/927-mnl/pdf)
+[927手册](/manuals/927-mnl.pdf)
 
 ## 软件
 [ORTEC软件文件系统](/manuals/ORTEC_File_Structures.pdf)
