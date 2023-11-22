@@ -15,11 +15,17 @@ hero:
       link: /manual/index.md
 
 features:
-  - title: 4pi立体角
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 保持更新
+    details: 文档最后更新时间为20231122
+  - title: 全空间探测
+    details: 空间探测范围接近4π立体角
+  - title: 超高效率
+    details: 160 keV以下探测效率接近100%
+  - title: 实用为先
+    details: 使用干货，无冗杂信息
+  - title: 格式优化
+    details: VitePress 驱动，格式优化
+  - title: 参与贡献
+    details: 目前指南有许多需要改进的地方，欢迎参与贡献
 ---
 
