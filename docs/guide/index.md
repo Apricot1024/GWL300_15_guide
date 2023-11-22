@@ -11,11 +11,11 @@ GWL-300-15 是一个井型HPGE，探测器，具有探测空间立体角大，�
     - [高压bias](/guide/bias.md)
     - [获取系统](/guide/aquirement.md)
 - 现有结果
-    - [本底谱](/results/specbackgroud.md)
+    - [本底谱](/results/specbackground.md)
     - [60Co谱](/results/spec60Co.md)
     - [133Ba-152Eu谱](/results/spec133Ba152Eu.md)
 - 文档参考
-    - [官方文档](/manual/docs.md)
+    - [官方文档](/manuals/docs.md)
 
 ## [与我联系](/contact.md)
 - 电子邮件：zhuminghao@cnncmail.cn
