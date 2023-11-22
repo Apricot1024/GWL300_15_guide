@@ -12,7 +12,7 @@ hero:
       link: /guide/index.md
     - theme: alt
       text: 官方文档汇总
-      link: /manual/index.md
+      link: /manuals/docs.md
 
 features:
   - title: 保持更新
