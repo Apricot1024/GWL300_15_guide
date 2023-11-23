@@ -16,7 +16,7 @@ hero:
 
 features:
   - title: 保持更新
-    details: 文档最后更新时间为20231122
+    details: 文档最后更新时间为20231123
   - title: 全空间探测
     details: 空间探测范围接近4π立体角
   - title: 超高效率
