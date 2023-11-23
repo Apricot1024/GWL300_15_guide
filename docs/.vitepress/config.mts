@@ -16,7 +16,8 @@ export default defineConfig({
       {
         text: 'GWL-300-15 HPGE',
         items: [
-          { text: '汇总说明', link: '/guide/index.md' }
+          { text: '汇总说明', link: '/guide/index.md' },
+          { text: '注意事项', link: '/guide/alarm.md' }
         ]
       },
       {
@@ -28,7 +29,7 @@ export default defineConfig({
         ]
       },
       {
-        text: '使用注意',
+        text: '使用须知',
         items: [
           { text: '液氮冷却', link: '/guide/n2liquid.md' },
           { text: '模块与连接', link: '/guide/nimmodule.md'},
